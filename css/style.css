@@ -1,0 +1,59 @@
+@charset "utf-8";
+body {
+  font-size: 30px;
+}
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+h1.rogo {
+  width: 120px;
+  padding: 10px;
+}
+.rogo img {
+  max-width: 100%;
+}
+nav.list {
+  font-size: 20px;
+}
+ul {
+  display: flex;
+}
+li {
+  padding: 10px;
+}
+.mainvisual img {
+max-width: 100%;
+}
+section {
+  text-align: center;
+}
+h1.title {
+  font-size: 2rem;
+  border-bottom: solid 0.1rem;
+  border-bottom-color: black;
+  display: inline-block;
+}
+img {
+  max-width: 100%;
+}
+.about_title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.about_title img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin-right: 30px;
+}
+.picture {
+  display: table-cell;
+  padding: 20px;
+}
+p.text {
+  font-weight: bold;
+  font-size: 32px;
+}
