@@ -1,0 +1,59 @@
+@charset "utf-8";
+
+.mainvisual img {
+  max-width: 100%;
+  margin-top: 60px;
+}
+nav.menu {
+  display: flex;
+  margin: 20px 0;
+}
+.nav_title {
+  font-weight: 600;
+}
+ul {
+  display: flex;
+}
+li {
+  margin: 0 10px;
+}
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+.concept {
+  display: flex;
+}
+.picture {
+  max-width: 50%;
+}
+.picture img {
+  max-width: 100%;
+}
+.index {
+  padding: 90px 40px;
+  background-color: azure;
+}
+h3 {
+  font-size: 20px;
+  margin: 5px 0;
+}
+p.concept_index {
+  margin-bottom: 20px;
+}
+.work {
+  display: flex;
+}
+.picture2 {
+  max-width: 50%;
+}
+.picture2 img {
+  max-width: 100%;
+}
+p.work_index {
+  margin-bottom: 20px;
+}
+.footer {
+  display: flex;
+  justify-content: space-between;
+}
