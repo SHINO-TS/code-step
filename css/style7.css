@@ -1,0 +1,90 @@
+@charset "utf-8";
+
+body {
+
+}
+.header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+h1.logo {
+  padding: 20px;
+}
+ul.nav {
+  display: flex;
+}
+.nav li {
+  padding: 10px;
+}
+.nav img {
+  width: 20px;
+}
+.mainvisual img {
+  max-width: 100%;
+}
+.container {
+  width: 960px;
+  margin: 0 auto;
+}
+.wrapper {
+  margin: 60px 4%;
+}
+.title h1 {
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 20px;
+}
+ul.picture {
+  display: flex;
+  flex-wrap: wrap;
+}
+.picture li {
+  padding: 10px;
+  width: 33%;
+}
+.picture img {
+  max-width: 100%;
+}
+.index dl {
+  display: flex;
+  flex-wrap: wrap;
+  border-top: solid 1px;
+}
+.index dt {
+  width: 15%;
+  border-bottom: solid 1px;
+  margin: 5px 0;
+  font-weight: unset;
+}
+.index dd {
+  width: 85%;
+  border-bottom: solid 1px;
+  margin: 5px 0;
+}
+.index2 dl {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.index2 dt {
+  width: 15%;
+  font-weight: unset;
+}
+.index2 dd {
+  width: 75%;
+  margin: 10px 0;
+  border: solid 1px;
+}
+input[type="submit"] {
+  margin: 0 auto;
+  background-color: black;
+  color: white;
+  padding: 15px 32px;
+  border-radius: 20%;
+}
+.foot {
+  text-align: center;
+  background-color: black;
+  color: white;
+}
