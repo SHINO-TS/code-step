@@ -1,0 +1,117 @@
+@charset "utf-8";
+
+.mainvisual img {
+  max-width: 100%;
+  margin-bottom: 20px;
+}
+.title {
+  text-align: center;
+  margin-bottom: 20px;
+}
+.title h1 {
+  font-size: xx-large;
+  font-weight: bold;
+  margin: 5px;
+}
+.title p {
+  margin: 5px;
+}
+.pictures {
+  width: 960px;
+  margin: 0 auto;
+}
+.pictures ul {
+  display: flex;
+  margin: 0 auto;
+}
+.pictures li {
+  padding: 10px;
+  width: 50%;
+}
+.pictures img {
+  max-width: 100%;
+}
+.fashion {
+  text-align: center;
+  margin-bottom: 20px;
+}
+.fashion p {
+  margin: 10px 0;
+}
+.fashion img{
+  max-width: 100%;
+}
+.catalog {
+  width: 960px;
+  margin: 0 auto;
+}
+.wrapper {
+  display: flex;
+  margin-bottom: 20px;
+}
+.picture {
+  width: 50%;
+}
+.picture img {
+  max-width: 100%;
+}
+  .index {
+    width: 50%;
+    padding: 40px 5%;
+}
+
+.index h1 {
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 15px;
+}
+.index p {
+  padding: 10px;
+  margin: 0 auto;
+}
+.antique {
+  width: 960px;
+  margin: 0 auto;
+}
+.antique img {
+  max-width: 100%;
+}
+.antique .index {
+  margin: auto;
+}
+.foot {
+  background-color: black;
+  color: white;
+  display: flex;
+  padding: 60px 0;
+}
+.logo {
+  margin: auto 5px;
+}
+.inner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+}
+.index1 {
+  text-align: center;
+  margin: 0 10px;
+}
+.index1 h2{
+  font-size: x-large;
+  margin-bottom: 10px;
+}
+.index1 li {
+  list-style:circle;
+  padding: 5px;
+}
+.index1 p {
+  padding: 5px;
+}
+.index1 .none li {
+  list-style: none;
+}
+.meg88 {
+text-align: center;  
+}
